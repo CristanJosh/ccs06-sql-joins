@@ -1,5 +1,5 @@
 {
-    "name": "itsromack/ccs06-sql-joins",
+    "name": "CristanJosh/ccs06-sql-joins",
     "require": {
         "vlucas/phpdotenv": "^5.5"
     },
@@ -10,8 +10,8 @@
     },
     "authors": [
         {
-            "name": "Romack Natividad",
-            "email": "natividad.romack@auf.edu.ph"
+            "name": "Cristan Josh S. Nuguid",
+            "email": "nuguid.cristanjosh@auf.edu.ph"
         }
     ]
 }
